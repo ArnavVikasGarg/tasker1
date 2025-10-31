@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Fm5j/nkQrTk=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\arnav\\task1A\\TaskApi\\TaskApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\arnav\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.10\\microsoft.aspnetcore.openapi.9.0.10.nupkg.sha512",
+    "C:\\Users\\arnav\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
